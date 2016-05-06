@@ -1,0 +1,17 @@
+{
+  "name": "mod1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mod1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "es6": "true",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "es6-module-loader": "^0.17.11",
+    "traceur": "0.0.108"
+  }
+}
