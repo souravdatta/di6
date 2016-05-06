@@ -1,6 +1,6 @@
 var System = require('es6-module-loader').System;
 var net = require('net');
-var di = require('./di6');
+var di = require('di6');
 
 var showError = function (err) {
   console.log(err);

@@ -13,5 +13,8 @@
     "babel": "^6.5.2",
     "es6-module-loader": "^0.17.11",
     "traceur": "0.0.108"
+  },
+  "dependencies": {
+    "di6": "0.0.1"
   }
 }
